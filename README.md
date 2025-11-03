@@ -3,6 +3,7 @@ How to use Nmap and Hydra for noobs
 To ethically test SSH security using Nmap and Hydra, first scan for open SSH ports with Nmap, then use Hydra to attempt password brute-forcing — only on systems you own or have explicit permission to test.
 
 Here’s a beginner-friendly breakdown of how to use these tools responsibly and effectively:
+![Nmap-Service-Detection](https://github.com/user-attachments/assets/1ef342b0-d77a-4c7e-b610-aca3de5c6412)
 
 🛡️ Ethical Reminder
 Before you begin: Never scan or brute-force systems without permission. These tools are powerful and must be used only for educational or authorized penetration testing.
