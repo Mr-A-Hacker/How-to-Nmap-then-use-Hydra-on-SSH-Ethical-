@@ -1,3 +1,10 @@
+> ## 👋 Start Here
+> A beginner security-learning guide. **For users:** it explains network discovery, SSH security, and why weak passwords are risky. Practical testing belongs only in your own isolated lab.
+>
+> **Safety:** Use security, camera, and network features only on systems and networks you own or are explicitly authorized to test.
+
+---
+
 # How-to-Nmap-then-use-Hydra-on-SSH-Ethical-
 How to use Nmap and Hydra for noobs 
 To ethically test SSH security using Nmap and Hydra, first scan for open SSH ports with Nmap, then use Hydra to attempt password brute-forcing — only on systems you own or have explicit permission to test.
